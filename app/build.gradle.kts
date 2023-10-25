@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.damarazka.vnvg"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.damarazka.vnvg"
